@@ -1,0 +1,6 @@
+*
+!*/
+!.gitignore
+!README.markdown
+!Makefile
+!cnake/[a-z]*.[ch]
